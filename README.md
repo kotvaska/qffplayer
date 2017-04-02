@@ -2,7 +2,7 @@
 
 It is cross-platform media player based on FFmpeg and written in Qt. It can play RTSP link and videos that stored locally.
 
-FFmpeg is responsible to load videos and codecs. SDL (Simple DirectMedia Layer) is responsible to display image.
+FFmpeg is for loading videos and codecs. SDL (Simple DirectMedia Layer) is for displaying image.
 
 ### Description
 
